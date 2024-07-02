@@ -1,6 +1,11 @@
 body{
     margin: 0;
 }
+main{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
 section{
     margin: 10px;
 }
@@ -163,6 +168,7 @@ footer{
     color: white;
     background-color: #3d3b3b;
     padding: 20px;
+    margin-top: auto;
 }
 
 footer:hover{
