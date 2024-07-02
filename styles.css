@@ -1,8 +1,8 @@
 body{
     margin: 0;
 }
-:root{
-    --border: linear-gradient(to right, orange, black)
+section{
+    padding: 10px;
 }
 
 header{
@@ -36,7 +36,6 @@ header  ul > li a{
     margin-top: 30px;
     border-radius: 9px;
     border: 1px solid #e7e4e4;
-    margin: 10px;
 }
 
 #container-1:hover{
